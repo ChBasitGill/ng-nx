@@ -1,0 +1,9 @@
+{
+  "name": "basitjamil-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/basitjamil-e2e/src",
+  "implicitDependencies": ["basitjamil"],
+  "// targets": "to see all targets run: nx show project basitjamil-e2e --web",
+  "targets": {}
+}
