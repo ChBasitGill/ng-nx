@@ -6,6 +6,8 @@ Welcome to the **ng-nx** repository! This project demonstrates the latest concep
 
 ## 🌟 Key Features
 
+## 🌟 Key Features
+
 1️⃣ **Host App**
    - Loads **Module Federated Microfrontend Apps** for seamless integration.
 
@@ -14,27 +16,35 @@ Welcome to the **ng-nx** repository! This project demonstrates the latest concep
    - 📊 **Shell-AgGrid**: Handles **high-volume live data** and demonstrates **AG Grid** features.
    - ✅ **Shell-Todos**: Demonstrates state management using **NGRX-Signals**.
 
-3️⃣ **Shared Libraries**:
+3️⃣ **State Management**:
+   - **NGRX-Store**: Effects, Actions, Devtools, Reducers, Selectors
+   - **NGRX-Signals**: `withMethod`, `withComputed`
+
+4️⃣ **Shared Libraries**:
    - 🛠️ **UI**: Reusable UI components.
    - 🔄 **Services**: Common services used across apps.
    - 🗂️ **Models**: DTOs, models, and view models.
    - 🏛️ **State**: State management utilities.
    - 🧰 **Utilities**: Generic utilities (planned for NPM packaging).
 
-4️⃣ **Storybook** 📖
+5️⃣ **Storybook** 📖
    - 🔧 **Interaction Testing**
    - ♿ **Accessibility (a11y) Testing**
    - 📚 **Documentation** with **Compodoc**
 
-5️⃣ **CI/CD** 🌐
+6️⃣ **Testing** 🔍
+   - Automated UI and End-to-End tests with **Playwright**.
+   - Unit testing with **Vitest**.
+
+7️⃣ **UI Framework** 🎨
+   - **Material UI** or other libraries.
+
+8️⃣ **CI/CD** 🌐
    - **Automated Release Notes** and **Versioning**
    - Built with **GitHub Actions** and deployed to **Netlify**
 
-6️⃣ **Testing** 🔍
-   - Automated UI and End-to-End tests with **Playwright**.
-
-7️⃣ **UI Framework** 🎨
-   - Considering **Material UI** or other libraries.
+9️⃣ **Data Grid** 📊
+   - Advanced usage of **AG Grid** for high-performance data visualization.
 
 ---
 
