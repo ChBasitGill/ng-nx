@@ -1,5 +1,11 @@
 
 
+## [0.2.0](https://github.com/ChBasitGill/ng-nx/compare/0.1.0...0.2.0) (2024-12-12)
+
+### Features
+
+* add commit linting ([b25155c](https://github.com/ChBasitGill/ng-nx/commit/b25155c2664f1ced1eec5255733609b37c62427d))
+
 ## 0.1.0 (2024-12-12)
 
 ### Features
