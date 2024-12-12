@@ -6,8 +6,6 @@ Welcome to the **ng-nx** repository! This project demonstrates the latest concep
 
 ## 🌟 Key Features
 
-## 🌟 Key Features
-
 1️⃣ **Host App**
    - Loads **Module Federated Microfrontend Apps** for seamless integration.
 
