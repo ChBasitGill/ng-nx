@@ -1,5 +1,3 @@
-import { isNullish, isObject } from '../functions/type-guard.functions'
-
 export type LoadState = 'loading' | 'error' | 'complete'
 
 interface DataStateModel<T> {

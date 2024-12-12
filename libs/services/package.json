@@ -1,9 +1,12 @@
 {
-  "name": "@cbg-services",
+  "name": "@cbg/services",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^19.0.0",
-    "@angular/core": "^19.0.0"
+    "@angular/core": "^19.0.0",
+    "vite": "^5.0.0",
+    "@analogjs/vite-plugin-angular": "~1.10.0",
+    "@nx/vite": "20.2.2"
   },
   "sideEffects": false
 }

@@ -1,13 +1,13 @@
-import { reducer, initialState } from './human.reducer'
-
+import { HumanActions } from '../actions/human.actions'
+import { humanReducers, initialState } from './human.reducer'
 describe('Human Reducer', () => {
   describe('an unknown action', () => {
     it('should return the previous state', () => {
-      const action = {} as any
+      const action = HumanActions.loadHumans
 
-      const result = reducer(initialState, action)
+      const result = humanReducers(initialState, action)
 
-      expect(result).toBe(initialState)
+      expect(result).toStrictEqual(initialState)
     })
   })
 })

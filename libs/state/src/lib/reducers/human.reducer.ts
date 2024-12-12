@@ -3,7 +3,7 @@ import { Human } from '@cbg-models'
 import { DataState, createCompleteState, createErrorState, createLoadingState } from '@cbg-utility'
 import { HumanActions } from '../actions/human.actions'
 
-export const humanFeatureKey = 'human'
+export const humanFeatureKey = 'humans'
 
 export interface HumanState {
   humans: DataState<Human[]>
