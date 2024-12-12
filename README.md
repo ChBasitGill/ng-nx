@@ -44,6 +44,9 @@ Welcome to the **ng-nx** repository! This project demonstrates the latest concep
 ___
 
 ## 🏗️ Project Structure
+![image](https://github.com/user-attachments/assets/4224c747-9061-4c15-b505-4307482e211f)
+
+![image](https://github.com/user-attachments/assets/8ce0ca1e-0e34-4c9a-9657-79f1c07e6494)
 
 ```
 ng-nx/
