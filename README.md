@@ -46,11 +46,6 @@ Welcome to the **ng-nx** repository! This project demonstrates the latest concep
 
 ---
 
-## 🛠️ Installation
-
-...coming soon
-___
-
 ## 🏗️ Project Structure
 ![image](https://github.com/user-attachments/assets/4224c747-9061-4c15-b505-4307482e211f)
 
@@ -80,6 +75,16 @@ ng-nx/
 - Automated:
   - 📑 **Release Notes**
   - 🔢 **Versioning**
+
+---
+
+## Tech Stack
+
+**Client:** Angular, NX, NGRX, AG Grid
+---
+## Authors
+
+- [Basit Jamil](https://www.github.com/chbasitgill)
 
 ---
 
