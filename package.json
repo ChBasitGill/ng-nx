@@ -3,9 +3,11 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "nx serve",
-    "build": "nx build",
-    "test": "nx test"
+    "start": "nx run cbg:serve",
+    "build": "nx run cbg:build",
+    "test": "nx run cbg:test",
+    "build-report": "nx run cbg:build --stats-json",
+    "bundle-report": "webpack-bundle-analyzer dist/cbg/stats.json"
   },
   "private": true,
   "dependencies": {
@@ -79,7 +81,8 @@
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.13.0",
     "vite": "^5.0.0",
-    "vitest": "^1.3.1"
+    "vitest": "^1.3.1",
+    "webpack-bundle-analyzer": "^4.10.2"
   },
   "nx": {
     "includedScripts": []
