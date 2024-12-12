@@ -1,5 +1,7 @@
 
 
+## [0.2.1](https://github.com/ChBasitGill/ng-nx/compare/0.2.0...0.2.1) (2024-12-12)
+
 ## [0.2.0](https://github.com/ChBasitGill/ng-nx/compare/0.1.0...0.2.0) (2024-12-12)
 
 ### Features
